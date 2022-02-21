@@ -7,3 +7,16 @@
 body{
     font-family: sans-serif;
 }
+
+.bg-blue{
+    background-color: #006cfa;
+}
+
+.box{
+    height: 40px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
