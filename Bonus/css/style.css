@@ -13,7 +13,7 @@ body{
 }
 
 .bg-red{
-    background-color: red;
+    background-color:red;
 }
 
 .bg-green{
@@ -24,6 +24,9 @@ body{
     background-color: blue;
 }
 
+.bg-yellow{
+    background-color: yellow;
+}
 .box{
     height: 50px;
     display: flex;
