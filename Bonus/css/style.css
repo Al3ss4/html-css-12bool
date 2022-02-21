@@ -7,3 +7,19 @@
 body{
     font-family: sans-serif;
 }
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.box{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
