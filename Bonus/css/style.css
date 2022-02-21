@@ -12,8 +12,16 @@ body{
     background-color: black;
 }
 
-.bg-yellow{
-    background-color: yellow;
+.bg-red{
+    background-color: red;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-blue{
+    background-color: blue;
 }
 
 .box{
@@ -21,5 +29,5 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 5px;
+
 }
