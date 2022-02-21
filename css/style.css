@@ -33,3 +33,10 @@ body{
     align-items: center;
     height: 40px;
 }
+
+.offset{
+    color: black;
+    align-items: flex-end;
+    justify-content: flex-start;
+    font-weight: bolder;
+}
